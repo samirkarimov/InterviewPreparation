@@ -1,5 +1,5 @@
 
-// 4. Kod blokunun nəticəsi nə olacaq? Nə üçün?
+// 4. What will be the output of the following code? Explain your answer.
 
 for(var i=0;i<5;i++){
     setTimeout(function(){

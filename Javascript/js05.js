@@ -1,5 +1,5 @@
 
-// 5. Kod blokunun nəticəsi nə olacaq? Nə üçün?
+// 5. What will be the output of the following code? Explain your answer.
 
 let counter=function(){
     let i=0;

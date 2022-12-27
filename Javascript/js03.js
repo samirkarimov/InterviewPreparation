@@ -1,5 +1,5 @@
 
-// 3. Kod blokunun nəticəsi nə olacaq? Nə üçün?
+// 3. What will be the output of the following code? Explain your answer.
 
 var data="Hello World";
 (() => {

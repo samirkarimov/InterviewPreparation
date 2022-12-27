@@ -1,5 +1,5 @@
 
-// 1. Kod blokunun nəticəsi nə olacaq? Nə üçün?
+// 1. What will be the output of the following code? Explain your answer.
 
 console.log(`firstVar:${first}`);
 first='First';
